@@ -1272,7 +1272,6 @@ img[class*="attachment-"] {
 embed,
 iframe,
 object {
-  width: 100%;
   max-width: 100%;
 }
 
